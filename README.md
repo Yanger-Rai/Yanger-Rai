@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yanger-Rai
 - 👀 I’m interested in ... anything and everything that captures my attention
 - 🌱 I’m currently learning ... every day
-- 💞️ I’m looking to collaborate on ... kinda busy learning how to launch a small scale business
+- 💞️ I’m looking to collaborate on ... open source projects
 - 📫 How to reach me ... here :)
 
 <!---
